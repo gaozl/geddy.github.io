@@ -68,4 +68,6 @@ theme: jekyll-theme-slate
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  ttype: git
+  repo: https://github.com/gaozl/geddy.github.io.git
+  branch: master
